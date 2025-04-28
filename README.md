@@ -14,16 +14,6 @@ The project demonstrates capabilities in autonomous navigation, basic task plann
 - Avoid obstacles dynamically
 - Return to the base station after completing tasks
 
----
-
-## Used Tools
-- ROS (Robot Operating System)
-- Python 3
-- Gazebo (for simulation)
-- RViz (for visualization)
-- Move Base (ROS Navigation Stack)
-- AMCL Localization
-- Custom ROS Nodes for task management
 
 ---
 
